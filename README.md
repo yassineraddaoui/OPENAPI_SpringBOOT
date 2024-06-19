@@ -1,3 +1,3 @@
-Doccument REST apis using OPEN API (Swagger) in Spring boot.
-Data Validation using spring-boot-starter-validation
+Doccument REST apis using OPEN API (Swagger) in Spring boot.\n
+Data Validation using spring-boot-starter-validation\n
 in memory DB and Data JPA
